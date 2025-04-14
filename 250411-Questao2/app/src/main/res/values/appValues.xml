@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings do Projeto -->
+    <string name="appTitulo">Cálulo do salário</string>
+    <string name="appSubTitulo1">Digite seu salário (R$)</string>
+    <string name="appSubTitulo2">Qual será o percentual?</string>
+    <string name="btnTotalCompra">Mostrar novo salário</string>
+    <string name="radio40">40%</string>
+    <string name="radio45">45%</string>
+    <string name="radio50">50%</string>
+    <string name="textResultado">-------</string>
+    <string name="hintSalario">Digite seu salário</string>
+
+    <!-- Cores do Projeto -->
+    <color name="appColorLaranja">#FE8D01</color>
+    <color name="appColorBranco">#FFFFFF</color>
+    <color name="appColorPreto">#000000</color>
+
+</resources>
